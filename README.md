@@ -1,4 +1,3 @@
-Hi! <br>
 My name is Victor Asael Corona Galan. I go by Asael. <br>
 I am a Computer Science student at SCSU. 
 I'm currently working on building a portfolio since I would like to become a full stack developer.
